@@ -1,6 +1,9 @@
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
+import math
+import time
+import random
 
 # Camera-related variables
 camera_pos = (0, 500, 500)
