@@ -1,4 +1,3 @@
-# Member 2: Game Objects & Collectibles
 # Features: Collectible Items, Bonus Collectibles, Jump Ramps, Life System, Score Tracking
 
 from OpenGL.GL import *
