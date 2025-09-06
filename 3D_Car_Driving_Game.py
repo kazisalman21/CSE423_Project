@@ -1,6 +1,3 @@
-# Member 3: UI/UX & Customization
-# Features: Menu System, HUD Display, Car Color Customization, Difficulty Levels, Cheat Mode
-
 from OpenGL.GL import *
 from OpenGL.GLUT import *
 from OpenGL.GLU import *
@@ -469,7 +466,7 @@ def handle_exit():
     else:
         sys.exit(0)
 
-# Export functions for integration
+# Export functions for integratio
 __all__ = [
     'draw_menu', 'draw_enhanced_color_menu', 'draw_enhanced_difficulty_menu', 
     'draw_howto_screen', 'draw_hud', 'draw_game_over_screen',
