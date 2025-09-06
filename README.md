@@ -54,11 +54,11 @@ The game is divided into three main Python files, each representing a module dev
 
 ## 👥 Team Members & Contributions
 
-| Name            | GitHub                | Module                  | Features                              |
-|-----------------|----------------------|-------------------------|---------------------------------------|
-|        | @your-github1        | car_game_part1_core.py  | Car movement, collision, lives, timer, score |
-| Member 2        | @your-github2        | car_game_part2_environment.py | Collectibles, bonus, ramps, obstacles, arena/walls |
-| Member 3        | @your-github3        | car_game_part3_ui.py    | Menu, color select, difficulty, HUD, states |
+| Name                 | GitHub               | Module                        | Features                                           |
+|----------------------|----------------------|-------------------------------|----------------------------------------------------|
+| Kazi Salman          | @your-github1        | car_game_part1_core.py        | Car movement, collision, lives, timer, score       |
+| Miskatul Afrin Anika | @your-github2        | car_game_part2_environment.py | Collectibles, bonus, ramps, obstacles, arena/walls |
+| Iman Meherin Nisa    | @your-github3        | car_game_part3_ui.py          | Menu, color select, difficulty, HUD, states        |
 
 > **Tip:**  
 > Commit history for each file will show who contributed what—reviewable by faculty.
