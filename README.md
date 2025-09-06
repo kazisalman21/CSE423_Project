@@ -105,7 +105,7 @@ The game is divided into three main Python files, each representing a module dev
 
 ## 📦 Repository
 
-> [github.com/kazisalman21/CSE423_Project](https://github.com/kazisalman21/CSE423_Project)
+> [github.com/kazisalman21/CSE423_Project](https://github.com/kazisalman21/CSE423_Project.git)
 
 ---
 
