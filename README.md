@@ -69,9 +69,9 @@ Each member is responsible for a set of features, tracked via GitHub branches an
 
 | Name    | GitHub           | Part/Branch              |
 |---------|------------------|--------------------------|
-| Salman  | @your-github1    | Salman-core-engine       |
-| Anika   | @your-github3    | Anika-ui-system          |
-| Nisa    | @your-github2    | Nisa-game-objects        |
+| Salman  | @kazisalman21    | Salman-core-engine       |
+| Anika   | @miskatulanika21 | Anika-ui-system          |
+| Nisa    | @imanmeherinnisaa| Nisa-game-objects        |
 
 
 ---
